@@ -1,0 +1,7 @@
+{
+  "openAIKey": "",
+  "openAICompletionEngine": "text-davinci-002",
+  "openAITemperature": 1,
+  "openAIMaxTokens": 1000,
+  "disabled": false
+}
