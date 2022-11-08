@@ -64,9 +64,7 @@
   },
   "projectList": [],
   "calendarList": [],
-  "subscriptionList": [
-    {}
-  ],
+  "subscriptionList": [],
   "pomodoro": {
     "pomodoro": 25,
     "shortBreak": 5,
@@ -82,9 +80,5 @@
       40
     ]
   },
-  "initialized": true,
-  "ignoreTag": null,
-  "todoist": {
-    "sync": 0
-  }
+  "initialized": true
 }
