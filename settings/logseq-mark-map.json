@@ -1,0 +1,10 @@
+{
+  "theme": "auto",
+  "nodeAnchorEnabled": false,
+  "disabled": false,
+  "keyBindings": {
+    "openMarkmap": "ctrl+m ctrl+m",
+    "openMarkmapFull": "ctrl+shift+m ctrl+shift+m"
+  },
+  "settingsVersion": "v2"
+}
